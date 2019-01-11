@@ -1,0 +1,9 @@
+C:\Users\user\AppData\Local\Temporary Projects\BoatRental\bin\Debug\BoatRental.exe
+C:\Users\user\AppData\Local\Temporary Projects\BoatRental\bin\Debug\BoatRental.pdb
+C:\Users\user\AppData\Local\Temporary Projects\BoatRental\obj\x86\Debug\BoatRental.exe
+C:\Users\user\AppData\Local\Temporary Projects\BoatRental\obj\x86\Debug\BoatRental.pdb
+C:\Users\user\documents\visual studio 2010\Projects\BoatRental\BoatRental\obj\x86\Debug\BoatRental.exe
+C:\Users\user\documents\visual studio 2010\Projects\BoatRental\BoatRental\obj\x86\Debug\BoatRental.pdb
+C:\Users\user\documents\visual studio 2010\Projects\BoatRental\BoatRental\bin\Debug\BoatRental.exe
+C:\Users\user\documents\visual studio 2010\Projects\BoatRental\BoatRental\bin\Debug\BoatRental.pdb
+C:\Users\user\documents\visual studio 2010\Projects\BoatRental\BoatRental\obj\x86\Debug\BoatRental.csprojResolveAssemblyReference.cache
